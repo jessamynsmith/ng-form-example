@@ -2,6 +2,8 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.0.
 
+Code is based on this [IT Solution Stuff Tutorial](https://www.itsolutionstuff.com/post/angular-13-reactive-forms-validation-tutorial-exampleexample.html).
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
